@@ -1,14 +1,14 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-class Imagewidget extends StatefulWidget {
-  const Imagewidget({super.key});
+class ImageWidget extends StatefulWidget {
+  const ImageWidget({super.key});
 
   @override
-  State<Imagewidget> createState() => _ImagewidgetState();
+  State<ImageWidget> createState() => _ImageWidgetState();
 }
 
-class _ImagewidgetState extends State<Imagewidget> {
+class _ImageWidgetState extends State<ImageWidget> {
 
   @override
   Widget build(BuildContext context) {

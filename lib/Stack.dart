@@ -37,7 +37,6 @@ class StackWidget extends StatelessWidget {
                   color: Colors.blueGrey,
                 ),
               ),
-
               Center(
                 child: Container(
                   height: height * 0.2,
